@@ -1,0 +1,5 @@
+f:\C sharp\Question_4\obj\Debug\net5.0\Question_4.csproj.AssemblyReference.cache
+f:\C sharp\Question_4\obj\Debug\net5.0\Question_4.GeneratedMSBuildEditorConfig.editorconfig
+f:\C sharp\Question_4\obj\Debug\net5.0\Question_4.AssemblyInfoInputs.cache
+f:\C sharp\Question_4\obj\Debug\net5.0\Question_4.AssemblyInfo.cs
+f:\C sharp\Question_4\obj\Debug\net5.0\Question_4.csproj.CoreCompileInputs.cache
